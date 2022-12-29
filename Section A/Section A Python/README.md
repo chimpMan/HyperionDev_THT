@@ -15,7 +15,8 @@
     to interpret the rest of the code, hence this error prevents the code from running. 
     Students should confirm that their submissions are free from such errors before a review.
    
-    A simple dendentation of line two and addition of a parameter for the sorrted(x) function would be sufficient to have the code fully running.
+    A simple dendentation of line two and addition of a parameter for the sorrted(x) function would 
+    be sufficient to have the code fully running.
 
 **EFFICIENCY 2/4**
 
