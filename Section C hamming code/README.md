@@ -3,8 +3,6 @@ This is my attempt at solving a Hamming code problem.
  Hamming code is used in error detection and detection.
 
 # Table of contents
-[Introduction](#general-info)
-[What the project does](#what-this-project-does) 
 - [Hamming Code Take Home Test](#hamming-code-take-home-test)
 - [Table of contents](#table-of-contents)
   - [WHAT MY CODE CAN DO](#what-my-code-can-do)
@@ -18,9 +16,6 @@ This is my attempt at solving a Hamming code problem.
     - [What is the space complexity](#what-is-the-space-complexity)
 - [TECHNOLOGIES](#technologies)
 - [SETUP](#setup)
-
-[Technologies](#technologies)
-[Setup](#setup)
 
 ## WHAT MY CODE CAN DO
 * Analyses error in a transmitted message and churns out the original message!
