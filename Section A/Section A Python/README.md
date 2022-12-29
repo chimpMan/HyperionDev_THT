@@ -92,6 +92,6 @@ print(ob1.group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 4. The sorted function must have atleast 1 argument in order for it to function.
 
 A little bit of refining of the code is all that is needed. For further studies, the student may look at the following resources:
-    1. https://www.docs.python.org/3/library/functions.html#sorted
-    2. https://www.peps.python.org/pep-0008/
+1. https://www.docs.python.org/3/library/functions.html#sorted
+2. https://www.peps.python.org/pep-0008/
 
