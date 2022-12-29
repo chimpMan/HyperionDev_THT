@@ -33,7 +33,7 @@
     Genearally the code could be a little bit more spaced out as shown below.
 
 ```python
-- `class Solution:
+ class Solution:
        def groupAnagrams(self, strs):
       result = {}
       for i in strs:
@@ -44,13 +44,13 @@
             result[x] = [i]
       return list(result.values())
     ob1 = Solution()
-    print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
+    print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 
 **VS**
 
  ```python
-- `class Solution:
+ class Solution:
 
     def group_anagrams(self,strs):
         result = {}
@@ -66,7 +66,7 @@
         return list(result.values())
 
 ob1 = Solution()
-print(ob1.group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
+print(ob1.group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
 
 **DCUMENTATION 0/4**
