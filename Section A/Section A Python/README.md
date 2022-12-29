@@ -10,17 +10,25 @@
 ## Reasoning
 
 **COMPLETNESS 2/4**
-    Due to syntax errors in line 2, and line 5 the interpreter will not move past line 2 to interpret the rest of the code, hence this error prevents the code from running. Students should confirm that their submissions are free from such errors before a review.
-    
+
+    Due to syntax errors in line 2, and line 5 the interpreter will not move past line 2 
+    to interpret the rest of the code, hence this error prevents the code from running. 
+    Students should confirm that their submissions are free from such errors before a review.
+   
     A simple dendentation of line two and addition of a parameter for the sorrted(x) function would be sufficient to have the code fully running.
 
 **EFFICIENCY 2/4**
+
     The code cannot be run without errors as it is since:
         1. There is an indent on line 2 that does not coincide with the rest of the code.
 
 **STYLE 2/4**
-    Since python mainly uses spacing and indentation as opposed to brackets, the student must learn more about correct indentation to avoid some simple errors when coding in python.
-    All the lines of code have all been put together and on further inspection, tab spaces were not utilised in indentation but the spacebar was used. This can lead to deeply rooted syntax errors, especially when writting longer code.
+
+    Since python mainly uses spacing and indentation as opposed to brackets, the student 
+    must learn more about correct indentation to avoid some simple errors when coding in python.
+    All the lines of code have all been put together and on further inspection, 
+    tab spaces were not utilised in indentation but the spacebar was used. 
+    This can lead to deeply rooted syntax errors, especially when writting longer code.
     Genearally the code could be a little bit more spaced out as shown below.
 
 ```python
@@ -38,7 +46,7 @@
     print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
 ```
 
-* **VS**
+**VS**
 
  ```python
 - `class Solution:
@@ -60,9 +68,10 @@ ob1 = Solution()
 print(ob1.group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
 ```
 
-
 **DCUMENTATION 0/4**
-    No comments were used in the code. Despite the code being short, comments are still useful and are a staple for well written code.
+
+    No comments were used in the code. Despite the code being short, 
+    comments are still useful and are a staple for well written code.
 
 ## Positive Aspects
 1. A good use of in-built functions such as join(sorted())
