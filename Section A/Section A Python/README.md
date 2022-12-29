@@ -23,7 +23,7 @@
     All the lines of code have all been put together and on further inspection, tab spaces were not utilised in indentation but the spacebar was used. This can lead to deeply rooted syntax errors, especially when writting longer code.
     Genearally the code could be a little bit more spaced out as shown below.
 
-    ```python
+```python
 - `class Solution:
        def groupAnagrams(self, strs):
       result = {}
@@ -34,9 +34,10 @@
          else:
             result[x] = [i]
       return list(result.values())
-ob1 = Solution()
-print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
+    ob1 = Solution()
+    print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))`
 ```
+
 * **VS**
 
  ```python
