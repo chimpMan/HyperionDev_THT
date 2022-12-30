@@ -26,7 +26,7 @@
 
 **STYLE 2/4**
 
-    The code is well space and different blocks of code are seperately spaced and easy to identify.
+    The code is well spaced and different blocks of code are seperately spaced and easy to identify.
     However, the student may employ better use of whitespace and not use whitespaces carelessly.
 
     There is also an excess of characters in line 11 and line 25 which exceeds the 72 character limit.
@@ -44,7 +44,7 @@
 1. A good understanding of the concept of recursion.
 2. Comments are well utilised in the majority of the code. They are short and to the point
 
-With correction of the few mistakes found, the code runs quit well and the student will be set on the right track.
+With correction of the few mistakes found, the code runs quite well and the student will be set on the right track.
 
 ## Areas to improve on
 1. Correct usage of whitespaces: Whitespaces are used only when neccessary according to the Java specifications.
